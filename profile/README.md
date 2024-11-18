@@ -1,4 +1,5 @@
-![inseption_logo2_512x193_white](https://github.com/user-attachments/assets/b49d6f05-fa51-46cf-b70f-2a41750e87a8)
+![inseption_logo2_512x193_white](https://github.com/user-attachments/assets/5b50f31f-e080-44e7-8f47-eae2b6a9034c)
+
 
 # Inseption lab <br> (IN Silico research for Estimating Patient’s Tumor evoluTION)
 ## About us
